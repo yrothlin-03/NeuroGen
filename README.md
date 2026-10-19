@@ -1,6 +1,7 @@
-# NeuroRestore
+# NeuroGen
 
-In this project, we propose to compare different state of the art methods to recover clean EEG signal and extract the artefacts signal while preserving physiological information.
+In this project, we propose to compare different state of the art methods to generate new conditionned synthetic EEG signals.
+The main purpose of this project is to further explore generative modelling with complex data.
 
 ## Methods : 
 - Conditional DDPM
