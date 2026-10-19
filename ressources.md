@@ -12,6 +12,7 @@
 - Liu et al. (2023) — Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow.https://arxiv.org/abs/2209.03003
 - Tong et al. (2024) — Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport. https://arxiv.org/abs/2302.00482
 - Geng et al. (2025) — Mean Flows for One-step Generative Modeling. https://arxiv.org/abs/2505.13447
+- Improved Mean Flows: On the Challenges of Fastforward Generative Models. https://doi.org/10.48550/arXiv.2512.02012
 
 
 
